@@ -1,4 +1,4 @@
 Folder for templates
 ====================
 
-This is a folder for Handlebars Templates with extesion .hbs
+This is a folder for Handlebars Templates with extension .hbs
