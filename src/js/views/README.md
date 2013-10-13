@@ -1,4 +1,4 @@
-Folder for vies
+Folder for views
 ===============
 
 This is a folder for Backbone Views, that might look like this:
